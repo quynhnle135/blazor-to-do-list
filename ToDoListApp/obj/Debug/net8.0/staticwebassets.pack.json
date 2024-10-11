@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/quinnle/blazor-to-do-list/ToDoListApp/obj/Debug/net8.0/scopedcss/projectbundle/ToDoListApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ToDoListApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/quinnle/blazor-to-do-list/ToDoListApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/quinnle/blazor-to-do-list/ToDoListApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/quinnle/blazor-to-do-list/ToDoListApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/quinnle/blazor-to-do-list/ToDoListApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ToDoListApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ToDoListApp.props",
+      "PackagePath": "build\\ToDoListApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ToDoListApp.props",
+      "PackagePath": "buildMultiTargeting\\ToDoListApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ToDoListApp.props",
+      "PackagePath": "buildTransitive\\ToDoListApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
